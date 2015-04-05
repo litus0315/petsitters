@@ -22,7 +22,7 @@ include_once('./_head.php');
 .item { margin:0 0 10px 0; }
 </style>
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">111111111111111111
 <?php
 $sql = " select * from {$g5['menu_table']} ";
 $sql.= "  where me_link like '%bo_table%' ";
